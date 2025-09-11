@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/2_-_TdcYXnp.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/1_-_9vTrX4y.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthPack.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_HoleBase_Inst.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile_Master.uasset"
+			]
+		}
+	]
+}
