@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile_Master.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/Blueprints/BP_AI_Enemy.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
 				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/ms/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
