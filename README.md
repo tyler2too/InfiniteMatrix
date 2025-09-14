@@ -79,4 +79,4 @@ You’re basically flying down an endless Matrix tunnel.
 
 <img width="991" height="686" alt="image" src="https://github.com/user-attachments/assets/e8334032-7e72-4a73-950a-752758c422fb" />
 
-- Everything else (health, score, enemies, projectiles, etc.) I added myself for the assignment  
+
